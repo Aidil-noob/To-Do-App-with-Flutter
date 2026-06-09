@@ -188,7 +188,7 @@ class _HomeState extends State<Home> {
             minWidth: 25,
           ),
           border: InputBorder.none,
-          hintText: 'Search',
+          hintText: 'Cari tugas',
           hintStyle: TextStyle(color: tdGrey),
         ),
       ),
