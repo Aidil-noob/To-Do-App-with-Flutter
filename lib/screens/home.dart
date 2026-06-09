@@ -46,7 +46,7 @@ class _HomeState extends State<Home> {
                           bottom: 20,
                         ),
                         child: Text(
-                          'All ToDos',
+                          'Semua Tugas',
                           style: TextStyle(
                             fontSize: 30,
                             fontWeight: FontWeight.w500,
